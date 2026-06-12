@@ -1,6 +1,6 @@
 import { meet } from '@googleworkspace/meet-addons/meet.addons';
 
-const CLOUD_PROJECT_NUMBER = 'demo-js-v1g';
+const CLOUD_PROJECT_NUMBER = '642173006457';
 
 const MAIN_STAGE_URL =
     window.location.origin + '/MainStage.html';
